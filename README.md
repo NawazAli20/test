@@ -8,3 +8,4 @@ This test line is added in the remote repo
 new line is added 
 
 ## Added a new line in feature branch 
+Added anoter line to feature 
